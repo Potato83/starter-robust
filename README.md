@@ -2,7 +2,7 @@
 
 ### Instructions:
 
-Change all instances of "starter" in functions.php to desired theme name.
+Change all instances of "starter-robust" in functions.php to desired theme name.
 
 Similarly, edit style.css and package.json.
 
